@@ -1,1 +1,3 @@
-export { default as LetSponZive} from "./src/LetSponZive"
+import LetSponZive from './src/LetSponZive';
+
+export { LetSponZive }
