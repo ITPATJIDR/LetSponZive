@@ -1,6 +1,6 @@
 {
   "name": "letsponzive",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,5 +17,6 @@
     "@babel/cli": "^7.22.5",
     "@babel/preset-env": "^7.22.5",
     "@babel/preset-react": "^7.22.5"
-  }
+  },
+  "homepage": "https://github.com/ITPATJIDR/LetSponZive"
 }
